@@ -7,9 +7,8 @@ Hotel Expenses : (Baga beach) -> 13680 + GST ==> 3830 rs. (Per person) ==> 15322
 
 Sight Seeing Expenses:
       Chapora fort,
-      Aguda Fort,
       Naval Museum (400rs. entry),
-      Clubbing (4000 rs. Total),
+      Clubbing (4000 rs. Total), 
       Rent two bikes (8000 rs. total),
       Fooding (2500 per person * 4 ==> 10k),
       Adventure Sports (4000 rs. Total)
